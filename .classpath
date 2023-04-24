@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="DATA COMPRESSION &amp; DECOMPRESSION/wingph Source Code/src"/>
+	<classpathentry kind="lib" path="DATA COMPRESSION &amp; DECOMPRESSION/wingph Source Code/dist/WinGph.jar"/>
+	<classpathentry kind="lib" path="DATA COMPRESSION &amp; DECOMPRESSION/WinGph.jar"/>
+	<classpathentry kind="output" path="DATA COMPRESSION &amp; DECOMPRESSION/wingph Source Code/build/classes"/>
+</classpath>
